@@ -14,7 +14,7 @@ Desafio de Projeto da DIO - Infraestrutura como Código - Script de Provisioname
 <h2 align="center">
 <p> Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira, incluir  as atividades da Digital Innovation One.</p>
 
-## Criado um arquivo Script.sh com orientação do [Prof. Denilson Bonatti](https://github.com/denilsonbonatti).
+## Criando um arquivo Script.sh com orientação do [Prof. Denilson Bonatti](https://github.com/denilsonbonatti).
 
 <p>
 #!/bin/bash </p>

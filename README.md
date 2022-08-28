@@ -17,23 +17,24 @@ Desafio de Projeto da DIO - Infraestrutura como Código - Script de Provisioname
 ## Criado um arquivo Script.sh com orientação do [Prof. Denilson Bonatti](https://github.com/denilsonbonatti).
 
 <p>
-#!/bin/bash
+#!/bin/bash </p>
 
-echo "Atualizando o servidor..."
-apt-get update
-apt-get upgrade -y
-apt-get install apache2 -y
-apt-get install unzip -y
+<p> echo "Atualizando o servidor..." </p>
+<p> apt-get update </p>
+<p> apt-get upgrade -y </p>
+<p> apt-get install apache2 -y </p>
+<p> apt-get install unzip -y </p>
 
 
-echo "Baixando e copiando os arquivos da aplicação..."
+<p> echo "Baixando e copiando os arquivos da aplicação..." </p>
 
-cd /tmp
-wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
-unzip main.zip
-cd linux-site-dio-main
-cp -R * /var/www/html/
-</p>
+<p> cd /tmp </p>
+<p> wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip </p>
+<p> unzip main.zip </p>
+<p> cd linux-site-dio-main </p>
+<p> cp -R * /var/www/html/ </p>
+
+
 
 
 
